@@ -8,3 +8,4 @@ dev = ["pytest"]
 
 [tool.pytest.ini_options]
 testpaths = ["functions/tests"]
+python_files = ["test_*.py"]
