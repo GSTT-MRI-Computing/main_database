@@ -1,0 +1,34 @@
+{
+    "stored_patient_directories": [
+        [
+            "/Users/oscarlally/Desktop/CCL/170121974"
+        ],
+        [
+            "/Users/oscarlally/Desktop/CCL/170044363",
+            "/Users/oscarlally/Documents/GitHub/Brainlab-DTI-Analysis/mrtrix3_files/170044363/nifti/t1_post.nii"
+        ],
+        [
+            "/Users/oscarlally/Desktop/CCL/170121250",
+            "/Users/oscarlally/Documents/GitHub/Brainlab-DTI-Analysis/mrtrix3_files/170121250/nifti/t1_post.nii"
+        ],
+        [
+            "/Users/oscarlally/Desktop/CCL/170135115"
+        ],
+        [
+            "/Users/oscarlally/Desktop/CCL/170030365",
+            "/Users/oscarlally/Documents/GitHub/Brainlab-DTI-Analysis/mrtrix3_files/170030365/nifti/t1_post.nii"
+        ],
+        [
+            "/Users/oscarlally/Desktop/CCL/170133637",
+            "/Users/oscarlally/Documents/GitHub/Brainlab-DTI-Analysis/mrtrix3_files/170133637/nifti/t1.nii"
+        ],
+        [
+            "/Users/oscarlally/Desktop/CCL/170141589",
+            "/Users/oscarlally/Documents/GitHub/Brainlab-DTI-Analysis/mrtrix3_files/170141589/nifti/t1.nii"
+        ],
+        [
+            "/Users/oscarlally/Desktop/CCL/170121250",
+            "/Users/oscarlally/Documents/GitHub/Brainlab-DTI-Analysis/mrtrix3_files/170121250/nifti/t1_post.nii"
+        ]
+    ]
+}
