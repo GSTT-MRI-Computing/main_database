@@ -1,0 +1,8 @@
+pydicom
+nibabel
+matplotlib
+SimpleITK
+nibabel
+tabulate
+numpy
+
